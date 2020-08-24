@@ -11,6 +11,8 @@
 
 [<img align="left" alt="TheGamerYT | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
+[<img align="left" alt="๖̶̶̶ζ͜͡ΞSЯΞVΞЯS'HPΞPZYT | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/discord.svg" />][discord]
+
 <br />
 
 ### Languages And Tools I Use:
@@ -50,6 +52,7 @@
 
 
 [youtube]: https://www.youtube.com/channel/UC3jCeJlUxhirQo8CQICosWA?
+[discord]: https://discord.gg/94T9xk5
 
 [VSCode]: https://code.visualstudio.com/
 [HTML5]: https://en.wikipedia.org/wiki/HTML5
