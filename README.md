@@ -1,11 +1,11 @@
 ### Hi there, I'm TGYT- aka [TheGamerYT][GitHubRepo] 👋
 
 ## I'm a Developer that Likes Javascript !
-- 🔭 I’m currently working on a LumaBot !
+- 🔭 I’m currently working on PL (Project Lumabot) !
 - 🌱 I’m learning anything related to JavaScript !
-- 👯 I’m working on my biggest project yet (LumaBot) !
-- 🥅 2020 Goals: Contribute more to Open Source projects And Get Better To Languages I Use
-- ⚡ Fun fact: I love to listen to music and play the piano / drums
+- 👯 I’m working on my biggest project yet (PL) !
+- 🥅 2020 Goals: Contribute more to Open Source projects And Get Better To Languages I Use !
+- ⚡ Fun fact: I love to listen to music and play the piano / drums !
 
 ### Connect with me:
 
