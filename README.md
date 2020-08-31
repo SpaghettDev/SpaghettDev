@@ -13,7 +13,7 @@
 
 [<img align="left" alt="๖̶̶̶ζ͜͡ΞSЯΞVΞЯS'HPΞPZYT | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/discord.svg" />][discord]<br />
 
- - You can connect with me by following the discord link above or by directly DM'ing me @ ๖̶̶̶ζ͜͡ΞSЯΞVΞЯS'HPZYT#0725 !
+You can connect with me by following the [discord link](discord) above or by directly DM'ing me @ **๖̶̶̶ζ͜͡ΞSЯΞVΞЯS'HPZYT#0725 !**
 <br />
 
 ### Languages And Tools I Use:
@@ -49,13 +49,45 @@
 <br />
 <br />
 
+### Consoles/Games I Own:
+
+<img src="https://img.shields.io/badge/playstation-%23000000.svg?&style=for-the-badge&logo=playstation&logoColor=blue" />
+ 
+<img src="https://img.shields.io/badge/Switch-%23000000.svg?&style=for-the-badge&logo=nintendo%20switch&logoColor=red" />
+ 
+<img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />
+ 
+<img src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike" />
+ 
 ### My GitHub Stats: 
 
 ![TheGamer456YT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheGamer456YT&show_icons=true&theme=algolia)
 
+<br />
+
 ### My Most Used Languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGamer456YT)
+
+<br />
+
+### A Re-direct To My README.md Repository:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheGamer456YT&repo=TheGamer456YT)](https://github.com/TheGamer456YT/TheGamer456YT)
+
+
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
 
 [youtube]: https://www.youtube.com/channel/UC3jCeJlUxhirQo8CQICosWA?
 [discord]: https://discord.gg/94T9xk5
