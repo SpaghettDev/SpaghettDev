@@ -59,6 +59,8 @@ You can connect with me by following the [discord link](discord) above or by dir
  
 <img src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike" />
 
+<br />
+
 ### My GitHub Stats: 
 
 ![TheGamer456YT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheGamer456YT&show_icons=true&theme=algolia)
@@ -74,6 +76,8 @@ You can connect with me by following the [discord link](discord) above or by dir
 ### A Re-direct To My README.md Repository:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheGamer456YT&repo=TheGamer456YT)](https://github.com/TheGamer456YT/TheGamer456YT)
+
+<br />
 
 ```md
 <!--START_SECTION:waka-->
