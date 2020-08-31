@@ -61,6 +61,8 @@ You can connect with me by following the [discord link](discord) above or by dir
 
 <br />
 
+[![Spotify](https://the-gamer456-yt.vercel.app/api/spotify)](https://open.spotify.com/user/TheGamer456YT)
+
 ### My GitHub Stats: 
 
 ![TheGamer456YT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheGamer456YT&show_icons=true&theme=algolia)
