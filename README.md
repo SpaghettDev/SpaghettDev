@@ -61,7 +61,7 @@ You can connect with me by following the [discord link](discord) above or by dir
 
 <br />
 
-[![Spotify](https://the-gamer456-yt.vercel.app/api/spotify)](https://open.spotify.com/user/j3oy5wv4z28ppiirfc7nmw1pf)
+[![Spotify](https://the-gamer456-yt-git-master.thegameryt.vercel.app/)](https://open.spotify.com/user/j3oy5wv4z28ppiirfc7nmw1pf)
 
 ### My GitHub Stats: 
 
