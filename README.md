@@ -75,8 +75,10 @@ You can connect with me by following the [discord link](discord) above or by dir
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheGamer456YT&repo=TheGamer456YT)](https://github.com/TheGamer456YT/TheGamer456YT)
 
+```md
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+```
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
