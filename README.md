@@ -79,10 +79,10 @@ You can connect with me by following the [discord link](discord) above or by dir
 
 <br />
 
-```md
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-```
+
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
