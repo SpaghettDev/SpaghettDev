@@ -62,7 +62,7 @@ You can connect with me by following the [discord link](discord) above or by dir
 <br />
 
 ### 🎧 Vibin' To:
-[![Spotify](https://novatorem-git-master.thegameryt.vercel.app)](https://open.spotify.com/user/j3oy5wv4z28ppiirfc7nmw1pf)
+[![Spotify](https://novatorem-five-theta.vercel.app/)](https://open.spotify.com/user/j3oy5wv4z28ppiirfc7nmw1pf)
 
 ### My GitHub Stats: 
 
