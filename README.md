@@ -80,7 +80,7 @@ You can connect with me by following the [discord link](discord) above or by dir
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-
+1. 🗣 Commented on [#1](https://github.com//lilrussian/flyingpig/issues/1) in [lilrussian/flyingpig](https://github.com//lilrussian/flyingpig)
 <!--END_SECTION:activity-->
 
 </details>
