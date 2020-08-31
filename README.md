@@ -61,7 +61,8 @@ You can connect with me by following the [discord link](discord) above or by dir
 
 <br />
 
-[![Spotify](https://the-gamer456-yt-git-master.thegameryt.vercel.app/)](https://open.spotify.com/user/j3oy5wv4z28ppiirfc7nmw1pf)
+### 🎧 Vibin' To:
+[<img src="https://novatorem-git-master.thegameryt.vercel.app" alt="TheGamerYT Listening To" width="350" />](https://open.spotify.com/user/j3oy5wv4z28ppiirfc7nmw1pf)
 
 ### My GitHub Stats: 
 
