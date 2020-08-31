@@ -11,8 +11,9 @@
 
 [<img align="left" alt="TheGamerYT | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-[<img align="left" alt="๖̶̶̶ζ͜͡ΞSЯΞVΞЯS'HPΞPZYT | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/discord.svg" />][discord]
+[<img align="left" alt="๖̶̶̶ζ͜͡ΞSЯΞVΞЯS'HPΞPZYT | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/discord.svg" />][discord]<br />
 
+# - You can connect with me by following the discord link above or by directly DM'ing me @ ๖̶̶̶ζ͜͡ΞSЯΞVΞЯS'HPZYT#0725 !
 <br />
 
 ### Languages And Tools I Use:
@@ -48,8 +49,9 @@
 <br />
 <br />
 
-<img align="left" alt="TheGamerYT's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheGamer456YT&show_icons=true&hide_border=true" />
 
+![TheGamer456YT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheGamer456YT&show_icons=true&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
 
 [youtube]: https://www.youtube.com/channel/UC3jCeJlUxhirQo8CQICosWA?
 [discord]: https://discord.gg/94T9xk5
