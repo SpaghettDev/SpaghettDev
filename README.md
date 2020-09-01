@@ -64,6 +64,8 @@ You can connect with me by following the [discord link](discord) above or by dir
 ### 🎧 Vibin' To:
 [![Spotify](https://novatorem-five-theta.vercel.app/)](https://open.spotify.com/user/j3oy5wv4z28ppiirfc7nmw1pf)
 
+<br />
+
 ### My GitHub Stats: 
 
 ![TheGamer456YT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheGamer456YT&show_icons=true&theme=algolia)
