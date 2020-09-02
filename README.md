@@ -154,7 +154,7 @@ JavaScript               6 repos             ███████████�
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com//lilrussian/flyingpig/issues/1) in [lilrussian/flyingpig](https://github.com//lilrussian/flyingpig)
+1. 🗣 Commented on [#299](https://github.com//Androz2091/AtlantaBot/issues/299) in [Androz2091/AtlantaBot](https://github.com//Androz2091/AtlantaBot)
 <!--END_SECTION:activity-->
 
 </details>
