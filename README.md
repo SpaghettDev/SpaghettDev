@@ -1,6 +1,6 @@
-### Hi There, I'm TGYT- aka [TheGamerYT][GitHubRepo] 👋
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-113-blue)
+
+### Hi There, I'm TGYT- aka [TheGamerYT][GitHubRepo] 👋
 
 ## I'm a Developer that Likes Javascript !
 - 🔭 I’m currently working on PL (Project Lumabot) !
