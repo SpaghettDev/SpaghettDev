@@ -80,6 +80,72 @@ You can connect with me by following the [discord link](discord) above or by dir
 
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-113-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 93 Contributions in the Year 2020
+ > 
+> 📦 31.6 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 8 Public Repositories
+ > 
+> 🔑 12 Private Repositories 
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.74% 
+🌆 Daytime    23 commits     ████████░░░░░░░░░░░░░░░░░   31.51% 
+🌃 Evening    33 commits     ███████████░░░░░░░░░░░░░░   45.21% 
+🌙 Night      15 commits     █████░░░░░░░░░░░░░░░░░░░░   20.55%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       20 commits     ██████░░░░░░░░░░░░░░░░░░░   27.4% 
+Tuesday      17 commits     █████░░░░░░░░░░░░░░░░░░░░   23.29% 
+Wednesday    10 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.7% 
+Thursday     8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.96% 
+Friday       9 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.33% 
+Saturday     7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.59% 
+Sunday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.74%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Africa/Casablanca
+
+💬 Programming Languages: 
+JavaScript               0 secs              █████████████████████████   100.0%
+
+🔥 Editors: 
+VS Code                  0 secs              █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  0 secs              █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               6 repos             █████████████████████████   100.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/TheGamer456YT/TheGamer456YT/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 
