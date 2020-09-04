@@ -1,4 +1,3 @@
-![Profile Views](http://img.shields.io/badge/Profile%20Views-113-blue)
 ![Chat On Discord](https://img.shields.io/discord/308323056592486420?logo=discord)
 ### Hi There, I'm TGYT- aka [TheGamerYT][GitHubRepo] 👋
 
