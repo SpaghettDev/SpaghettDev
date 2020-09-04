@@ -64,13 +64,8 @@ You can connect with me by following the [discord link](discord) above or by dir
 <br />
 
 ### 🎧 Vibin' To:
-[![Spotify](https://novatorem-five-theta.vercel.app/)](https://open.spotify.com/user/j3oy5wv4z28ppiirfc7nmw1pf)
 
-<br />
-
-### My Most Used Languages:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGamer456YT)
+[<img src="https://novatorem-five-theta.vercel.app/api/spotify-playing" alt="TheGamer456YT Spotify Vibin' To" width="350" />](https://open.spotify.com/user/j3oy5wv4z28ppiirfc7nmw1pf)
 
 <br />
 
