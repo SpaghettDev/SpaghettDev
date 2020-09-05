@@ -14,7 +14,6 @@
 
 [<img align="left" alt="๖̶̶̶ζ͜͡ΞSЯΞVΞЯS'HPΞPZYT | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/discord.svg" />][discord]<br />
 
-You can connect with me by following the [discord link](discord) above or by directly DM'ing me @ **๖̶̶̶ζ͜͡ΞSЯΞVΞЯS'HPZYT#0725 !**
 <br />
 
 ### Languages And Tools I Use:
@@ -50,16 +49,9 @@ You can connect with me by following the [discord link](discord) above or by dir
 <br />
 <br />
 
-
 ### 🎧 Vibin' To:
 
 [<img src="https://novatorem-five-theta.vercel.app/api/spotify" alt="TheGamer456YT Spotify Vibin' To" width="350" />](https://open.spotify.com/user/j3oy5wv4z28ppiirfc7nmw1pf)
-
-<br />
-
-### A Re-direct To My README.md Repository:
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheGamer456YT&repo=TheGamer456YT)](https://github.com/TheGamer456YT/TheGamer456YT)
 
 <br />
 
