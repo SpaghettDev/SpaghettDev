@@ -63,81 +63,6 @@ You can connect with me by following the [discord link](discord) above or by dir
 
 <br />
 
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-195-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 110 Contributions in the Year 2020
- > 
-> 📦 32.0 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 8 Public Repositories
- > 
-> 🔑 12 Private Repositories 
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.2% 
-🌆 Daytime    25 commits     ██████░░░░░░░░░░░░░░░░░░░   27.47% 
-🌃 Evening    42 commits     ███████████░░░░░░░░░░░░░░   46.15% 
-🌙 Night      22 commits     ██████░░░░░░░░░░░░░░░░░░░   24.18%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       20 commits     █████░░░░░░░░░░░░░░░░░░░░   21.98% 
-Tuesday      17 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.68% 
-Wednesday    14 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Thursday     15 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.48% 
-Friday       11 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.09% 
-Saturday     12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.19% 
-Sunday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.2%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Africa/Casablanca
-
-💬 Programming Languages: 
-JavaScript               1 hr 27 mins        ████████████████░░░░░░░░░   64.39% 
-JSON                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.72% 
-YAML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.37% 
-TypeScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.18% 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.14%
-
-🔥 Editors: 
-VS Code                  2 hrs 16 mins       █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  2 hrs 16 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               6 repos             █████████████████████████   100.0%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/TheGamer456YT/TheGamer456YT/blob/master/charts/bar_graph.png) 
-
-
-<!--END_SECTION:waka-->
-
-
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
@@ -151,6 +76,11 @@ JavaScript               6 repos             ███████████�
   <summary>:zap: Github Stats</summary>
  
 ![TheGamer456YT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheGamer456YT&show_icons=true&theme=algolia)
+
+<br />
+
+<!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
 
 </details>
  
