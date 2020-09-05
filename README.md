@@ -50,17 +50,6 @@ You can connect with me by following the [discord link](discord) above or by dir
 <br />
 <br />
 
-### Consoles/Games I Own:
-
-<img src="https://img.shields.io/badge/playstation-%23000000.svg?&style=for-the-badge&logo=playstation&logoColor=blue" />
- 
-<img src="https://img.shields.io/badge/Switch-%23000000.svg?&style=for-the-badge&logo=nintendo%20switch&logoColor=red" />
- 
-<img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />
- 
-<img src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike" />
-
-<br />
 
 ### 🎧 Vibin' To:
 
