@@ -57,6 +57,9 @@
 
 <br />
 
+<!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
@@ -75,8 +78,7 @@
 
 </details>
  
-<!--END_SECTION:waka-->
-<!--START_SECTION:waka-->
+
 
 
 [youtube]: https://www.youtube.com/channel/UC3jCeJlUxhirQo8CQICosWA?
