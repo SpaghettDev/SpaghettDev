@@ -1,7 +1,7 @@
 ![Chat On Discord](https://img.shields.io/discord/308323056592486420?logo=discord)
 ### Hi There, I'm TGYT- aka [TheGamerYT][GitHubRepo] 👋
 
-## I'm a Developer that Likes Javascript !
+## I'm a Javascript Developer !
 - 🔭 I’m currently working on PL (Project Lumabot) !
 - 🌱 I’m learning anything related to JavaScript !
 - 👯 I’m working on my biggest project yet (PL) !
@@ -76,6 +76,7 @@
 <details>
   <summary>💻 My Programming Stats:</summary>
   
+ 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-239-blue)
 
