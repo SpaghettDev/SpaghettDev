@@ -66,7 +66,7 @@
   <summary>:zap: My Recent Github Activity:</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#299](https://github.com//Androz2091/AtlantaBot/issues/299) in [Androz2091/AtlantaBot](https://github.com//Androz2091/AtlantaBot)
+1. 🗣 Commented on [#3](https://github.com//Spimy/Discord.JS-Bot-Developement/issues/3) in [Spimy/Discord.JS-Bot-Developement](https://github.com//Spimy/Discord.JS-Bot-Developement)
 <!--END_SECTION:activity-->
 
 </details>
