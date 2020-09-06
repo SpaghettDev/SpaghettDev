@@ -8,6 +8,8 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects And Get Better To Languages I Use !
 - ⚡ Fun fact: I love to listen to music and play the piano / drums !
 
+<br />
+
 ### Connect With Me:
 
 [<img align="left" alt="TheGamerYT | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
