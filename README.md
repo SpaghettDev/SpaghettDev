@@ -1,4 +1,9 @@
-![Chat On Discord](https://img.shields.io/discord/308323056592486420?logo=discord)
+[![Chat On Discord](https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)][discord]
+[![My Spotify](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)][spotify]
+[![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=yellow)][JS]
+[![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)][NodeJS]
+[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)][youtube]
+
 ### Hi There, I'm TGYT- aka [TheGamerYT][GitHubRepo] 👋
 
 ## I'm a Javascript Developer !
@@ -34,7 +39,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCode]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML5]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS3]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][Sass]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][Sass][
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JS]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][React]
 [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][Gatsby]
@@ -53,7 +58,7 @@
 
 ### 🎧 Vibin' To:
 
-[<img src="https://novatorem-five-theta.vercel.app/api/spotify" alt="TheGamer456YT Spotify Vibin' To" width="350" />](https://open.spotify.com/user/j3oy5wv4z28ppiirfc7nmw1pf)
+[<img src="https://novatorem-five-theta.vercel.app/api/spotify" alt="TheGamer456YT Spotify Vibin' To" width="350" />][spotify]
 
 <br />
 
@@ -149,6 +154,7 @@ JavaScript               6 repos             ███████████�
 
 [youtube]: https://www.youtube.com/channel/UC3jCeJlUxhirQo8CQICosWA?
 [discord]: https://discord.gg/94T9xk5
+[spotify]: https://open.spotify.com/user/j3oy5wv4z28ppiirfc7nmw1pf
 
 [VSCode]: https://code.visualstudio.com/
 [HTML5]: https://en.wikipedia.org/wiki/HTML5
