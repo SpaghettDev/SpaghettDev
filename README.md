@@ -57,11 +57,8 @@
 
 <br />
 
-<!--END_SECTION:waka-->
-<!--START_SECTION:waka-->
-
 <details>
-  <summary>:zap: Recent Github Activity</summary>
+  <summary>:zap: My Recent Github Activity:</summary>
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#299](https://github.com//Androz2091/AtlantaBot/issues/299) in [Androz2091/AtlantaBot](https://github.com//Androz2091/AtlantaBot)
@@ -70,15 +67,21 @@
 </details>
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>🌟 My Github Stats:</summary>
  
 ![TheGamer456YT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheGamer456YT&show_icons=true&theme=algolia)
 
-<br />
-
 </details>
  
+<br />
 
+<details>
+  <summary>💻 My Programming Stats:</summary>
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</details>
 
 
 [youtube]: https://www.youtube.com/channel/UC3jCeJlUxhirQo8CQICosWA?
