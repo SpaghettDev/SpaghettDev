@@ -73,12 +73,12 @@
 
 <br />
 
+</details>
+ 
 <!--END_SECTION:waka-->
 <!--START_SECTION:waka-->
 
-</details>
- 
- 
+
 [youtube]: https://www.youtube.com/channel/UC3jCeJlUxhirQo8CQICosWA?
 [discord]: https://discord.gg/94T9xk5
 
