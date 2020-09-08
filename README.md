@@ -74,6 +74,8 @@
 <details>
   <summary>🌟 My Github Stats:</summary>
  
+ <br />
+ 
 ![TheGamer456YT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheGamer456YT&show_icons=true&theme=algolia)
 
 </details>
