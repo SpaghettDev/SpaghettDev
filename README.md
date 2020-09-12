@@ -68,7 +68,7 @@
   <summary>:zap: My Recent Github Activity:</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com//Spimy/Discord.JS-Bot-Developement/issues/3) in [Spimy/Discord.JS-Bot-Developement](https://github.com//Spimy/Discord.JS-Bot-Developement)
+1. 💪 Opened PR [#4](https://github.com//BlueFox-Development/Discord-Bot-Example/pull/4) in [BlueFox-Development/Discord-Bot-Example](https://github.com//BlueFox-Development/Discord-Bot-Example)
 <!--END_SECTION:activity-->
 
 </details>
