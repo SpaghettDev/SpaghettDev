@@ -7,7 +7,7 @@
 ### Hi There, I'm TGYT- aka [TheGamerYT][GitHubRepo] 👋
 
 ## I'm a Javascript Developer !
-- 🔭 I’m currently working on PL (Project Lumabot) !
+- 🔭 I’m currently working on PL (Project Lumabot) & [Discord-Bot-Example](https://github.com/BlueFox-Development/Discord-Bot-Example) !
 - 🌱 I’m learning anything related to JavaScript !
 - 👯 I’m working on my biggest project yet (PL) !
 - 🥅 2020 Goals: Contribute more to Open Source projects And Get Better To Languages I Use !
