@@ -68,7 +68,7 @@
   <summary>:zap: My Recent Github Activity:</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com//BlueFox-Development/Discord-Bot-Example/pull/5) in [BlueFox-Development/Discord-Bot-Example](https://github.com//BlueFox-Development/Discord-Bot-Example)
+1. 🗣 Commented on [#32](https://github.com//Snowflake107/canvacord/issues/32) in [Snowflake107/canvacord](https://github.com//Snowflake107/canvacord)
 <!--END_SECTION:activity-->
 
 </details>
