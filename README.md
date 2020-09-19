@@ -88,13 +88,13 @@
  <br />
  
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-242-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-192-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 165 Contributions in the Year 2020
+> 🏆 166 Contributions in the Year 2020
  > 
 > 📦 33.3 kB Used in Github's Storage 
  > 
@@ -148,7 +148,8 @@ Windows                  2 hrs 16 mins       ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               7 repos             █████████████████████████   100.0%
+JavaScript               7 repos             ██████████████████████░░░   87.5% 
+C#                       1 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
 
 ```
 
