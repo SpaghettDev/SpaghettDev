@@ -68,7 +68,7 @@
   <summary>:zap: My Recent Github Activity:</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com//Snowflake107/canvacord/issues/32) in [Snowflake107/canvacord](https://github.com//Snowflake107/canvacord)
+1. 🗣 Commented on [#32](https://github.com/Snowflake107/canvacord/issues/32) in [Snowflake107/canvacord](https://github.com/Snowflake107/canvacord)
 <!--END_SECTION:activity-->
 
 </details>
