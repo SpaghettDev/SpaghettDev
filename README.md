@@ -62,9 +62,8 @@
 
 [<img src="https://novatorem-five-theta.vercel.app/api/spotify" alt="TheGamer456YT Spotify Vibin' To" width="350" />][spotify]
 
-<br />
 
-### [<img align="left" alt="๖̶̶̶ζ͜͡ΞSЯΞVΞЯS'HPΞPZYT | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord] Discord Status:
+### ☄ Discord Status:
 
 [![Discord](https://discord.c99.nl/widget/theme-3/248878605147308033.png)][bio]
 
