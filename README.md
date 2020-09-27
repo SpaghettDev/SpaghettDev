@@ -64,6 +64,10 @@
 
 <br />
 
+[![Discord](https://discord.c99.nl/widget/theme-3/248878605147308033.png)][bio]
+
+<br />
+
 <details>
   <summary>:zap: My Recent Github Activity:</summary>
   
@@ -162,6 +166,7 @@ C#                       1 repos             ███░░░░░░░░�
 
 [youtube]: https://www.youtube.com/channel/UC3jCeJlUxhirQo8CQICosWA?
 [discord]: https://discord.gg/94T9xk5
+[bio]: https://discord.bio/p/thegameryt
 [spotify]: https://open.spotify.com/user/j3oy5wv4z28ppiirfc7nmw1pf
 
 [VSCode]: https://code.visualstudio.com/
