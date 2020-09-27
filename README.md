@@ -8,7 +8,7 @@
 
 ## I'm a Javascript Developer !
 - 🔭 I’m currently working on PL (Project Lumabot) & [Discord-Bot-Example](https://github.com/BlueFox-Development/Discord-Bot-Example) !
-- 🌱 I’m learning anything related to JavaScript !
+- 🌱 I’m learning anything related to JavaScript & Java!
 - 👯 I’m working on my biggest project yet (PL) !
 - 🥅 2020 Goals: Contribute more to Open Source projects And Get Better To Languages I Use !
 - ⚡ Fun fact: I love to listen to music and play the piano / drums !
