@@ -64,6 +64,8 @@
 
 <br />
 
+### [<img align="left" alt="๖̶̶̶ζ͜͡ΞSЯΞVΞЯS'HPΞPZYT | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord] Discord Status:
+
 [![Discord](https://discord.c99.nl/widget/theme-3/248878605147308033.png)][bio]
 
 <br />
