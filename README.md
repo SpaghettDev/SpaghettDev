@@ -73,7 +73,7 @@
   <summary>:zap: My Recent Github Activity:</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#633](https://github.com/Frederikam/FredBoat/issues/633) in [Frederikam/FredBoat](https://github.com/Frederikam/FredBoat)
+1. 🎉 Merged PR [#1](https://github.com/TheGamer456YT/Discord-Bot-Example/pull/1) in [TheGamer456YT/Discord-Bot-Example](https://github.com/TheGamer456YT/Discord-Bot-Example)
 <!--END_SECTION:activity-->
 
 </details>
