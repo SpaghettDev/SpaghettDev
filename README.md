@@ -71,18 +71,18 @@
 <br />
 
 <details>
-  <summary>👓 Stackoverflow Stats:</summary>
-
-[![StackOverflow Profile](https://github-readme-stackoverflow.vercel.app/?userID=13485432&layout=full)](https://stackoverflow.com/users/13485432/thegameryt)
-
-</details>
-
-<details>
   <summary>:zap: My Recent Github Activity:</summary>
   
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/TheGamer456YT/Discord-Bot-Example/pull/1) in [TheGamer456YT/Discord-Bot-Example](https://github.com/TheGamer456YT/Discord-Bot-Example)
 <!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>👓 Stackoverflow Stats:</summary>
+
+[![StackOverflow Profile](https://github-readme-stackoverflow.vercel.app/?userID=13485432&layout=full)](https://stackoverflow.com/users/13485432/thegameryt)
 
 </details>
 
