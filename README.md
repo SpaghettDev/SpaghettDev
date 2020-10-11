@@ -4,14 +4,15 @@
 [![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)][NodeJS]
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)][youtube]
 
-### Hi There, I'm TGYT- aka [TheGamerYT][GitHubRepo] 👋
+### Hi There, I'm SpaghettDev- aka [TheGamerYT][GitHubRepo] 👋
 
-## I'm a Javascript Developer !
-- 🔭 I’m currently working on PL (Project Lumabot) & [Discord-Bot-Example](https://github.com/BlueFox-Development/Discord-Bot-Example) !
+## Some Info About Me:
+
+- 🔭 I’m currently working on PL (Project Lumabot) & [Discord-Bot-Example](https://github.com/BlueFox-Development/Discord-Bot-Example)!
 - 🌱 I’m learning anything related to JavaScript & Java!
-- 👯 I’m working on my biggest project yet (PL) !
-- 🥅 2020 Goals: Contribute more to Open Source projects And Get Better To Languages I Use !
-- ⚡ Fun fact: I love to listen to music and play the piano / drums !
+- 👯 I’m working on my biggest project yet (PL)!
+- 🥅 2020 Goals: Contribute more to Open Source projects And Get Better To Languages I Use!
+- ⚡ Fun fact: I love to listen to music and play the piano / drums!
 
 <br />
 
@@ -70,6 +71,13 @@
 <br />
 
 <details>
+  <summary>👓 Stackoverflow Stats:</summary>
+
+[![StackOverflow Profile](https://github-readme-stackoverflow.vercel.app/?userID=13485432&layout=full)](https://stackoverflow.com/users/13485432/thegameryt)
+
+</details>
+
+<details>
   <summary>:zap: My Recent Github Activity:</summary>
   
 <!--START_SECTION:activity-->
@@ -80,9 +88,7 @@
 
 <details>
   <summary>🌟 My Github Stats:</summary>
- 
- <br />
- 
+
 ![TheGamer456YT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheGamer456YT&show_icons=true&theme=algolia)
 
 </details>
