@@ -71,7 +71,7 @@
 <br />
 
 <details>
-  <summary>:zap: My Recent Github Activity:</summary>
+  <summary>:zap: Recent Github Activity:</summary>
   
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/TheGamer456YT/Discord-Bot-Example/pull/1) in [TheGamer456YT/Discord-Bot-Example](https://github.com/TheGamer456YT/Discord-Bot-Example)
@@ -87,14 +87,14 @@
 </details>
 
 <details>
-  <summary>🌟 My Github Stats:</summary>
+  <summary>🌟 Github Stats:</summary>
 
 ![TheGamer456YT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheGamer456YT&show_icons=true&theme=algolia)
 
 </details>
 
 <details>
-  <summary>💻 My Programming Stats:</summary>
+  <summary>💻 Programming Stats:</summary>
   
  <br />
  
