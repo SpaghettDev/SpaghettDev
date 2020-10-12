@@ -99,7 +99,7 @@
   <summary>🎊 Github Repos:</summary>
 <br />
 
-<!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
+<!--GITHUB_REPOS:{"rows": 6, "raw": true}-->
 
 <br />
 <p align="center">Last refresh: <b><!--TIMESTAMP--></b></p>
