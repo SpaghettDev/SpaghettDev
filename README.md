@@ -81,6 +81,7 @@
 
 <details>
   <summary>👓 Stackoverflow Stats:</summary>
+<br />
 
 [![StackOverflow Profile](https://github-readme-stackoverflow.vercel.app/?userID=13485432&layout=full)](https://stackoverflow.com/users/13485432/thegameryt)
 
@@ -88,6 +89,7 @@
 
 <details>
   <summary>🌟 Github Stats:</summary>
+<br />
 
 ![TheGamer456YT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheGamer456YT&show_icons=true&theme=algolia)
 
