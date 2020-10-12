@@ -74,7 +74,7 @@
   <summary>:zap: Recent Github Activity:</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/BlueFox-Development/Discord-Bot-Example/issues/8) in [BlueFox-Development/Discord-Bot-Example](https://github.com/BlueFox-Development/Discord-Bot-Example)
+1. 🎉 Merged PR [#1](https://github.com/TheGamer456YT/Discord-Bot-Example/pull/1) in [TheGamer456YT/Discord-Bot-Example](https://github.com/TheGamer456YT/Discord-Bot-Example)
 <!--END_SECTION:activity-->
 
 </details>
@@ -92,6 +92,14 @@
 <br />
 
 ![TheGamer456YT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheGamer456YT&show_icons=true&theme=algolia)
+
+</details>
+
+<details>
+  <summary>🎊 Github Repos:</summary>
+<br />
+
+<!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
 
 </details>
 
