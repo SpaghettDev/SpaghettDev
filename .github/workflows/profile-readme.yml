@@ -1,24 +1,30 @@
 name: Profile Readme
-  
+
 on:
   schedule:
-    - cron: '*/30 * * * *'
-  workflow_dispatch:
+    - cron: "0 */4 * * *"
+  push:
+    branches:
+      - dev
 
 jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
+      - name: Checkout sources
+        uses: actions/checkout@v2
         with:
-          persist-credentials: true
+          persist-credentials: false
           fetch-depth: 0
-      - name: Create README.md
+
+      - name: Generate README.md
         uses: actions-js/profile-readme@master
         with:
-          username: TheGamer456YT
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: TheGamer456YT
+
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: dev
