@@ -95,17 +95,13 @@
 
 </details>
 
-<details>
+<!--<details>
   <summary>🎊 Github Repos:</summary>
 <br />
-
 <!--GITHUB_REPOS:{"rows": 6, "raw": true}-->
-
-<br />
+<!--<br />
 <p align="center">Last refresh: <b><!--TIMESTAMP--></b></p>
-
-</details>
-
+<!--</details>-->
 <details>
   <summary>💻 Programming Stats:</summary>
   
