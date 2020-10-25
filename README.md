@@ -79,7 +79,7 @@ Here is some info about me:
   <summary>:zap: Recent Github Activity:</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Lebyy/Codes/pull/1) in [Lebyy/Codes](https://github.com/Lebyy/Codes)
+1. 🗣 Commented on [#120](https://github.com/Androz2091/discord-player/issues/120) in [Androz2091/discord-player](https://github.com/Androz2091/discord-player)
 <!--END_SECTION:activity-->
 
 </details>
