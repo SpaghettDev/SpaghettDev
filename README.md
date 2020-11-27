@@ -122,8 +122,6 @@ Here is some info about me:
 
 **🐱 My Github Data** 
 
-> 🏆 228 Contributions in the Year 2020
- > 
 > 📦 32.9 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
