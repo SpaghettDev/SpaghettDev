@@ -79,7 +79,7 @@ Here is some info about me:
   <summary>:zap: Recent Github Activity:</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#120](https://github.com/Androz2091/discord-player/issues/120) in [Androz2091/discord-player](https://github.com/Androz2091/discord-player)
+1. ❗️ Opened issue [#51](https://github.com/DevSnowflake/canvacord/issues/51) in [DevSnowflake/canvacord](https://github.com/DevSnowflake/canvacord)
 <!--END_SECTION:activity-->
 
 </details>
