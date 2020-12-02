@@ -118,10 +118,12 @@ Here is some info about me:
  <br />
  
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
+> 🏆 228 Contributions in the Year 2020
+ > 
 > 📦 32.9 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
