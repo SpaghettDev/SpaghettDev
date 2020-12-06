@@ -122,15 +122,15 @@ Here is some info about me:
 
 **🐱 My Github Data** 
 
-> 🏆 228 Contributions in the Year 2020
+> 🏆 235 Contributions in the Year 2020
  > 
-> 📦 32.9 kB Used in Github's Storage 
+> 📦 34.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 14 Public Repositories
+> 📜 14 Public Repositories 
  > 
-> 🔑 13 Private Repositories 
+> 🔑 15 Private Repositories  
 
 **I'm an Early 🐤** 
 
@@ -157,8 +157,8 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               8 repos             ██████████████████████░░░   88.89% 
-C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+JavaScript               10 repos            ██████████████████████░░░   90.91% 
+C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
 
 ```
 
