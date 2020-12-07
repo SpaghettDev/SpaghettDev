@@ -7,7 +7,7 @@
 ### Hi There, I'm SpaghettDev- aka [TheGamerYT][GitHubRepo] 👋
 
 I'm a passionate programmer that uses and likes: Javascript & Typescript (*i still have to experiment a lot with it*).
-I'm always learning new things and one of them is Python and Java.
+I'm always learning new things and some of them are Python and Java.
 Here is some info about me:
 
 - 🔭 I’m currently working on PL (Project Lumabot) & [Discord-Bot-Example](https://github.com/BlueFox-Development/Discord-Bot-Example)!
