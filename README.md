@@ -122,7 +122,7 @@ Here is some info about me:
 
 **🐱 My Github Data** 
 
-> 🏆 235 Contributions in the Year 2020
+> 🏆 236 Contributions in the Year 2020
  > 
 > 📦 34.0 kB Used in Github's Storage 
  > 
