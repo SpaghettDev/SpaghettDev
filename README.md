@@ -147,10 +147,10 @@ Here is some info about me:
 
 ```text
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 56 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 56 mins       █████████████████████████   100.0%
 
 ```
 
