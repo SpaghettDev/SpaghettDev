@@ -118,7 +118,7 @@ Here is some info about me:
  <br />
  
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My Github Data** 
 
@@ -131,7 +131,7 @@ Here is some info about me:
 > 📜 14 Public Repositories 
  > 
 > 🔑 15 Private Repositories  
-
+ > 
 **I'm an Early 🐤** 
 
 ```text
