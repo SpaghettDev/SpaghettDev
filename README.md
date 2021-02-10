@@ -124,7 +124,7 @@ Here is some info about me:
 
 > 🏆 0 Contributions in the Year 2021
  > 
-> 📦 34.0 kB Used in Github's Storage 
+> 📦 34.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
