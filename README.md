@@ -6,15 +6,15 @@
 
 ### Hi There, I'm SpaghettDev- aka [TheGamerYT][GitHubRepo] 👋
 
-I'm a passionate programmer that uses and likes: Javascript & Typescript (*i still have to experiment a lot with it*).
-I'm always learning new things and some of them are Python and Java.
+I'm a passionate programmer that uses and likes: Javascript & Typescript & Python.
+I'm always learning new things and one of them is Java.
 Here is some info about me:
 
 - 🔭 I’m currently working on PL (Project Lumabot) & [Discord-Bot-Example](https://github.com/BlueFox-Development/Discord-Bot-Example)!
-- 🌱 I’m learning anything related to JavaScript & Java!
+- 🌱 I’m learning anything related to Java, TypeScript, Python!
 - 👯 I’m working on my biggest project yet (PL)!
-- 🥅 2020 Goals: Contribute more to Open Source projects And Get Better To Languages I Use!
-- ⚡ Fun fact: I love to listen to music and play the piano / drums!
+- 🥅 2021 Goals: Same as last year, but this time, try to code more!
+- ⚡ Fun fact: I love to listen to music and play the piano/drums!
 
 <br />
 
@@ -22,7 +22,7 @@ Here is some info about me:
 
 [<img align="left" alt="TheGamerYT | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-[<img align="left" alt="๖̶̶̶ζ͜͡ΞSЯΞVΞЯS'HPΞPZYT | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]<br />
+[<img align="left" alt="SpaghettDev | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]<br />
 
 <br />
 
@@ -170,7 +170,10 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 [youtube]: https://www.youtube.com/channel/UC3jCeJlUxhirQo8CQICosWA?
-[discord]: https://discord.gg/94T9xk5
+[discord]: https://discord.com/404
+<!--
+https://discord.gg/94T9xk5
+-->
 [bio]: https://discord.bio/p/thegameryt
 [spotify]: https://open.spotify.com/user/j3oy5wv4z28ppiirfc7nmw1pf
 
