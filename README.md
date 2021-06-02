@@ -118,7 +118,7 @@ Here is some info about me:
  <br />
  
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My Github Data** 
 
@@ -147,10 +147,10 @@ Here is some info about me:
 
 ```text
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 18 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 18 mins       █████████████████████████   100.0%
 
 ```
 
