@@ -79,7 +79,7 @@ Here is some info about me:
   <summary>:zap: Recent Github Activity:</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#51](https://github.com/DevSnowflake/canvacord/issues/51) in [DevSnowflake/canvacord](https://github.com/DevSnowflake/canvacord)
+1. ❗️ Opened issue [#193](https://github.com/Darkempire78/Darkempire78/issues/193) in [Darkempire78/Darkempire78](https://github.com/Darkempire78/Darkempire78)
 <!--END_SECTION:activity-->
 
 </details>
