@@ -122,7 +122,7 @@ Here is some info about me:
 
 **🐱 My Github Data** 
 
-> 🏆 1 Contributions in the Year 2021
+> 🏆 2 Contributions in the Year 2021
  > 
 > 📦 34.2 kB Used in Github's Storage 
  > 
@@ -164,7 +164,7 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/06/2021
+ Last Updated on 18/06/2021
 <!--END_SECTION:waka-->
 
 </details>
