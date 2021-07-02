@@ -124,7 +124,7 @@ Here is some info about me:
 
 > 🏆 2 Contributions in the Year 2021
  > 
-> 📦 33.9 kB Used in Github's Storage 
+> 📦 34.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -164,7 +164,7 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2021
+ Last Updated on 02/07/2021
 <!--END_SECTION:waka-->
 
 </details>
