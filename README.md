@@ -79,7 +79,7 @@ Here is some info about me:
   <summary>:zap: Recent Github Activity:</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#193](https://github.com/Darkempire78/Darkempire78/issues/193) in [Darkempire78/Darkempire78](https://github.com/Darkempire78/Darkempire78)
+1. 🗣 Commented on [#286](https://github.com/Flam3rboy/discord-bot-client/issues/286) in [Flam3rboy/discord-bot-client](https://github.com/Flam3rboy/discord-bot-client)
 <!--END_SECTION:activity-->
 
 </details>
