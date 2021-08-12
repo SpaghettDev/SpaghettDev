@@ -118,11 +118,11 @@ Here is some info about me:
  <br />
  
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 9 Contributions in the Year 2021
+> 🏆 10 Contributions in the Year 2021
  > 
 > 📦 34.1 kB Used in Github's Storage 
  > 
@@ -135,10 +135,10 @@ Here is some info about me:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.73% 
-🌆 Daytime    89 commits     ███████████░░░░░░░░░░░░░░   45.88% 
-🌃 Evening    69 commits     █████████░░░░░░░░░░░░░░░░   35.57% 
-🌙 Night      21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.82%
+🌞 Morning    15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+🌆 Daytime    89 commits     ███████████░░░░░░░░░░░░░░   45.64% 
+🌃 Evening    69 commits     ████████░░░░░░░░░░░░░░░░░   35.38% 
+🌙 Night      22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.28%
 
 ```
 
@@ -166,7 +166,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2021
+ Last Updated on 12/08/2021
 <!--END_SECTION:waka-->
 
 </details>
