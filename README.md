@@ -124,7 +124,7 @@ Here is some info about me:
 
 > 🏆 11 Contributions in the Year 2021
  > 
-> 📦 34.1 kB Used in Github's Storage 
+> 📦 34.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -165,7 +165,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2021
+ Last Updated on 23/08/2021
 <!--END_SECTION:waka-->
 
 </details>
