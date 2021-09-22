@@ -118,13 +118,13 @@ Here is some info about me:
  <br />
  
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 17 Contributions in the Year 2021
  > 
-> 📦 34.2 kB Used in Github's Storage 
+> 📦 34.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -147,11 +147,11 @@ Here is some info about me:
 
 ```text
 🔥 Editors: 
-VS Code                  1 hr 25 mins        ███████████████████░░░░░░   75.63% 
-PyCharmCore              27 mins             ██████░░░░░░░░░░░░░░░░░░░   24.37%
+VS Code                  35 mins             ████████████████░░░░░░░░░   63.66% 
+PyCharmCore              20 mins             █████████░░░░░░░░░░░░░░░░   36.34%
 
 💻 Operating System: 
-Windows                  1 hr 52 mins        █████████████████████████   100.0%
+Windows                  55 mins             █████████████████████████   100.0%
 
 ```
 
@@ -166,7 +166,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2021
+ Last Updated on 22/09/2021
 <!--END_SECTION:waka-->
 
 </details>
