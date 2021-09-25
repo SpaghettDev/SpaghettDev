@@ -79,7 +79,7 @@ Here is some info about me:
   <summary>:zap: Recent Github Activity:</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/smealum/haxchi/issues/8) in [smealum/haxchi](https://github.com/smealum/haxchi)
+1. 🗣 Commented on [#12](https://github.com/FailedShack/USBHelperInstaller/issues/12) in [FailedShack/USBHelperInstaller](https://github.com/FailedShack/USBHelperInstaller)
 <!--END_SECTION:activity-->
 
 </details>
