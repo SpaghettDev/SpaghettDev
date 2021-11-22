@@ -118,13 +118,13 @@ Here is some info about me:
  <br />
  
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 22 Contributions in the Year 2021
  > 
-> 📦 34.4 kB Used in GitHub's Storage 
+> 📦 34.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -165,7 +165,7 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/11/2021
+ Last Updated on 22/11/2021
 <!--END_SECTION:waka-->
 
 </details>
