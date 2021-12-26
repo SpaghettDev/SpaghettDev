@@ -79,7 +79,7 @@ Here is some info about me:
   <summary>:zap: Recent Github Activity:</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/FailedShack/USBHelperInstaller/issues/12) in [FailedShack/USBHelperInstaller](https://github.com/FailedShack/USBHelperInstaller)
+1. 🗣 Commented on [#1](https://github.com/TheGamer456YT/frick-discord-2fa/issues/1) in [TheGamer456YT/frick-discord-2fa](https://github.com/TheGamer456YT/frick-discord-2fa)
 <!--END_SECTION:activity-->
 
 </details>
