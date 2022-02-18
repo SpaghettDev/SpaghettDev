@@ -147,10 +147,10 @@ Here is some info about me:
 
 ```text
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 23 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 23 mins        █████████████████████████   100.0%
 
 ```
 
@@ -165,7 +165,7 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/02/2022 00:27:56 UTC
+ Last Updated on 18/02/2022 00:34:03 UTC
 <!--END_SECTION:waka-->
 
 </details>
