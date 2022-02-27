@@ -118,7 +118,7 @@ Here is some info about me:
  <br />
  
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -165,7 +165,7 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 25/02/2022 00:34:27 UTC
+ Last Updated on 27/02/2022 00:36:31 UTC
 <!--END_SECTION:waka-->
 
 </details>
