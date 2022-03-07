@@ -170,6 +170,14 @@ C#                       1 repo              ██░░░░░░░░░�
 
 </details>
 
+<details>
+  <summary>⌚ WakaTime:</summary>
+
+<br />
+
+[![wakatime](https://wakatime.com/badge/user/52b24ed7-09d2-4442-8d09-ffc2793b916f.svg)](https://wakatime.com/@52b24ed7-09d2-4442-8d09-ffc2793b916f?style=flat)
+
+</details>
 
 [youtube]: https://www.youtube.com/channel/UC3jCeJlUxhirQo8CQICosWA?
 [discord]: https://discord.com/404
