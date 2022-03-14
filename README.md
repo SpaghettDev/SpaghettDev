@@ -10,7 +10,7 @@ I'm a passionate programmer that uses and likes: Javascript & Typescript & Pytho
 I'm always learning new things and one of them is Java.
 Here is some info about me:
 
-- 🔭 I’m currently working on PL (Project Lumabot) & [Discord-Bot-Example](https://github.com/BlueFox-Development/Discord-Bot-Example)!
+- 🔭 I’m currently working on PL (Project Lumabot), [Discord-Bot-Example](https://github.com/BlueFox-Development/Discord-Bot-Example) and A secret Project (MSD)!
 - 🌱 I’m learning anything related to Java, TypeScript, Python!
 - 👯 I’m working on my biggest project yet (PL)!
 - 🥅 2021 Goals: Same as last year, but this time, try to code more!
