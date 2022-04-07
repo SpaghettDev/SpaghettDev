@@ -95,13 +95,15 @@ Here is some info about me:
  <br />
  
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%2016%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 40 Contributions in the Year 2022
+> 🏆 43 Contributions in the Year 2022
  > 
-> 📦 34.4 kB Used in GitHub's Storage 
+> 📦 34.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -112,10 +114,10 @@ Here is some info about me:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    50 commits     █████████░░░░░░░░░░░░░░░░   38.76% 
-🌆 Daytime    52 commits     ██████████░░░░░░░░░░░░░░░   40.31% 
-🌃 Evening    16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.4% 
-🌙 Night      11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.53%
+🌞 Morning    53 commits     ██████████░░░░░░░░░░░░░░░   40.15% 
+🌆 Daytime    52 commits     █████████░░░░░░░░░░░░░░░░   39.39% 
+🌃 Evening    16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
+🌙 Night      11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
 
 ```
 
@@ -142,7 +144,7 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/04/2022 00:41:08 UTC
+ Last Updated on 07/04/2022 00:40:41 UTC
 <!--END_SECTION:waka-->
 
 </details>
