@@ -95,8 +95,6 @@ Here is some info about me:
  <br />
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-217%20hrs%2057%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
@@ -144,7 +142,7 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/04/2022 00:41:02 UTC
+ Last Updated on 17/04/2022 00:42:34 UTC
 <!--END_SECTION:waka-->
 
 </details>
