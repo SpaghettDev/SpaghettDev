@@ -56,7 +56,7 @@ Here is some info about me:
   <summary>:zap: Recent Github Activity:</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/useragents/Instagram-Username-Auto-Claimer/issues/6) in [useragents/Instagram-Username-Auto-Claimer](https://github.com/useragents/Instagram-Username-Auto-Claimer)
+1. ❗️ Opened issue [#21](https://github.com/TheGamer456YT/Economy-Bot/issues/21) in [TheGamer456YT/Economy-Bot](https://github.com/TheGamer456YT/Economy-Bot)
 <!--END_SECTION:activity-->
 
 </details>
