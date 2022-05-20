@@ -95,13 +95,13 @@ Here is some info about me:
  <br />
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-238%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-239%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 68 Contributions in the Year 2022
+> 🏆 72 Contributions in the Year 2022
  > 
 > 📦 34.3 kB Used in GitHub's Storage 
  > 
@@ -109,15 +109,15 @@ Here is some info about me:
  > 
 > 📜 15 Public Repositories 
  > 
-> 🔑 16 Private Repositories  
+> 🔑 17 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    63 commits     █████████░░░░░░░░░░░░░░░░   37.72% 
-🌆 Daytime    68 commits     ██████████░░░░░░░░░░░░░░░   40.72% 
-🌃 Evening    16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.58% 
-🌙 Night      20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.98%
+🌞 Morning    63 commits     █████████░░░░░░░░░░░░░░░░   37.06% 
+🌆 Daytime    71 commits     ██████████░░░░░░░░░░░░░░░   41.76% 
+🌃 Evening    16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.41% 
+🌙 Night      20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.76%
 
 ```
 
@@ -126,10 +126,10 @@ Here is some info about me:
 
 ```text
 🔥 Editors: 
-VS Code                  6 hrs 12 mins       █████████████████████████   100.0%
+VS Code                  3 hrs 18 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  6 hrs 12 mins       █████████████████████████   100.0%
+Windows                  3 hrs 18 mins       █████████████████████████   100.0%
 
 ```
 
@@ -144,7 +144,7 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/05/2022 00:52:34 UTC
+ Last Updated on 20/05/2022 00:46:12 UTC
 <!--END_SECTION:waka-->
 
 </details>
