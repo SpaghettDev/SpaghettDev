@@ -56,7 +56,7 @@ Here is some info about me:
   <summary>:zap: Recent Github Activity:</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#21](https://github.com/TheGamer456YT/Economy-Bot/issues/21) in [TheGamer456YT/Economy-Bot](https://github.com/TheGamer456YT/Economy-Bot)
+1. 🗣 Commented on [#59](https://github.com/PolyMarsDev/Sokobot/issues/59) in [PolyMarsDev/Sokobot](https://github.com/PolyMarsDev/Sokobot)
 <!--END_SECTION:activity-->
 
 </details>
