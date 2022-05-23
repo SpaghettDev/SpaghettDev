@@ -95,7 +95,7 @@ Here is some info about me:
  <br />
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-240%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -126,11 +126,11 @@ Here is some info about me:
 
 ```text
 🔥 Editors: 
-VS Code                  5 hrs 10 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 26 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  4 hrs 30 mins       █████████████████████░░░░   87.08% 
-Linux                    40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.92%
+Windows                  1 hr 46 mins        ██████████████████░░░░░░░   72.68% 
+Linux                    40 mins             ██████░░░░░░░░░░░░░░░░░░░   27.32%
 
 ```
 
@@ -145,7 +145,7 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2022 00:44:29 UTC
+ Last Updated on 23/05/2022 00:44:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
