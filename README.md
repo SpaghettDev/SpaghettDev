@@ -42,7 +42,7 @@ Here's some info about me:
   <summary>:zap: Recent Github Activity:</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/TheGamer456YT/frick-discord-2fa/issues/2) in [TheGamer456YT/frick-discord-2fa](https://github.com/TheGamer456YT/frick-discord-2fa)
+1. 🗣 Commented on [#1](https://github.com/CryonicsX/instagram-massdm/issues/1) in [CryonicsX/instagram-massdm](https://github.com/CryonicsX/instagram-massdm)
 <!--END_SECTION:activity-->
 
 </details>
