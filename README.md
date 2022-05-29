@@ -1,49 +1,35 @@
-[![Chat On Discord](https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)][discord]
-[![My Spotify](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)][spotify]
-[![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=yellow)][JS]
-[![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)][NodeJS]
-[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)][youtube]
-
 ### Hi There, I'm SpaghettDev- aka [TheGamerYT][GitHubRepo] 👋
 
 I'm a passionate programmer that uses and likes: Javascript & Typescript & Python.
-I'm always learning new things and one of them is Java.
-Here is some info about me:
+I'm always learning new things!
+Here's some info about me:
 
-- 🔭 I’m currently working on PL (Project Lumabot), [Discord-Bot-Example](https://github.com/BlueFox-Development/Discord-Bot-Example) and A secret Project (MSD)!
-- 🌱 I’m learning anything related to Java, TypeScript, Python!
+- 🔭 I’m currently working on PL (Project Lumabot) and a secret project (MSD)!
+- 🌱 I’m learning anything related to programming languages and whatnot!
 - 🥅 2022 Goals: idk
-- ⚡ Fun fact: I love to listen to music and play the piano/drums!
-
-<br />
-
-### Connect With Me:
-
-[<img align="left" alt="TheGamerYT | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
-[<img align="left" alt="SpaghettDev | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]<br />
-
-<br />
+- ⚡ Fun fact: A cow can go up stairs, but can't go down them.
 
 ### Languages And Tools I Use:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCode]
+[<img align="left" alt="Visual Studio Code Insiders" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg/1200px-Visual_Studio_Code_Insiders_1.36_icon.svg.png" />][VSCodeInsiders]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JS]
+[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" />][Python]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][NodeJS]
-[<img align="left" alt="npm"   width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />][npm]
+[<img align="left" alt="PIP" width="26px" src="https://pypi.org/static/images/logo-small.95de8436.svg" />][PyPI]
+[<img align="left-center" alt="npm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" />][npm]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML5]
-[<img align="left" alt="CSS"   width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"   />][CSS3]
-[<img align="left" alt="MongoDB"    width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />][MongoDB]
-[<img align="left" alt="Git"        width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />][Git]
-[<img align="left" alt="GitHub"     width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GitHub]
+[<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"   />][CSS3]
+[<img align="left" alt="MongoDB" width="26px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--TNSLqWFK--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/140/fec5c82f-9870-4277-8ec9-a1ccf5505bf5.png" />][MongoDB]
+[<img align="left" alt="Git" width="26px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" />][Git]
+[<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />][GitHub]
 
-<br />
 <br />
 
 
 ### 🎧 Vibin' To:
 
-[<img src="https://novatorem-five-theta.vercel.app/api/spotify" alt="SpaghettDev Spotify Vibin' To" width="350" />][spotify]
+[<img src="https://novatorem2-theta.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="SpaghettDev Spotify Vibin' To" width="350" />][spotify]
 
 
 ### ☄ Discord Status:
@@ -167,18 +153,14 @@ https://discord.gg/94T9xk5
 [spotify]: https://open.spotify.com/user/j3oy5wv4z28ppiirfc7nmw1pf
 
 [VSCode]: https://code.visualstudio.com/
+[VSCodeInsiders]: https://code.visualstudio.com/insiders/
 [HTML5]: https://en.wikipedia.org/wiki/HTML5
 [CSS3]: https://en.wikipedia.org/wiki/Cascading_Style_Sheets
-[Sass]: https://en.wikipedia.org/wiki/Sass_(stylesheet_language)
 [JS]: https://en.wikipedia.org/wiki/JavaScript
-[React]: https://en.wikipedia.org/wiki/React_(web_framework)
-[Gatsby]: https://www.gatsbyjs.org/
-[GraphQL]: https://en.wikipedia.org/wiki/GraphQL
+[Python]: https://www.python.org/
 [NodeJS]: https://en.wikipedia.org/wiki/Node.js
 [npm]: https://npmjs.com
-[Deno]: https://en.wikipedia.org/wiki/Deno_(software)
-[SQL]: https://en.wikipedia.org/wiki/SQL
-[MySQL]: https://en.wikipedia.org/wiki/MySQL
+[PyPI]: https://pypi.org/
 [MongoDB]: https://en.wikipedia.org/wiki/MongoDB
 [Git]: https://en.wikipedia.org/wiki/Git
 [GitHub]: https://en.wikipedia.org/wiki/GitHub
