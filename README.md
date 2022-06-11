@@ -17,7 +17,7 @@ Here's some info about me:
   <summary>:zap: Recent Github Activity:</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/CryonicsX/instagram-massdm/issues/1) in [CryonicsX/instagram-massdm](https://github.com/CryonicsX/instagram-massdm)
+1. 🗣 Commented on [#6](https://github.com/johejo/inputimeout/issues/6) in [johejo/inputimeout](https://github.com/johejo/inputimeout)
 <!--END_SECTION:activity-->
 
 </details>
