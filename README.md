@@ -11,7 +11,7 @@ Here's some info about me:
 - ⚡ Fun fact: A cow can go up stairs, but can't go down them.
 
 #### 🎧 Vibin' To:
-[<img src="https://novatorem2-theta.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="SpaghettDev is vibin' to" width="350"/>][spotify]
+[<img src="https://novatorem2-theta.vercel.app/api/spotify?background_color=0d1117&border_color=000000" alt="SpaghettDev is vibin' to" width="350"/>][spotify]
 
 <details>
   <summary>:zap: Recent Github Activity:</summary>
