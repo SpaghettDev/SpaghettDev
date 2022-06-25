@@ -16,6 +16,8 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Canada/Toronto
+
+          # Spotify
           plugin_music: yes
           plugin_music_limit: 3
           plugin_music_mode: top
@@ -24,3 +26,9 @@ jobs:
           plugin_music_provider: spotify
           plugin_music_user: .user.login
           plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
+
+          # WakaTime
+          filename: metrics.plugin.wakatime.svg
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
