@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 */2 * * *"}]
   push: {branches: ["master"]}
   workflow_dispatch:
 jobs:
@@ -13,6 +13,7 @@ jobs:
         with:
           token: ${{ secrets.PERSONAL_TOKEN }}
           committer_message: Updated Github Metrics. (${filename})
+          filename: github-metrics-embed.svg
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Canada/Toronto
@@ -28,7 +29,6 @@ jobs:
           plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
 
           # WakaTime
-          filename: github-metrics-embed.svg
           plugin_wakatime: yes
           plugin_wakatime_sections: time, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
