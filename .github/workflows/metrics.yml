@@ -28,7 +28,7 @@ jobs:
           plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
 
           # WakaTime
-          filename: github-metrics-wakatime.svg
+          filename: github-metrics-embed.svg
           plugin_wakatime: yes
           plugin_wakatime_sections: time, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
