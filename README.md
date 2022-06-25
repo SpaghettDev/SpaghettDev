@@ -1,4 +1,4 @@
-[![Metrics](/github-metrics.svg)][github]
+[![Metrics](/github-metrics-wakatime.svg)][github]
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://novatorem2-theta.vercel.app/api/spotify?background_color=0d1117&border_color=000000" alt="SpaghettDev is vibin' to" width="350"/>][spotify]
 
