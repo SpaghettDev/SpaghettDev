@@ -16,6 +16,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Canada/Toronto
+          filename: github-metrics.svg
 
           # Spotify
           plugin_music: yes
