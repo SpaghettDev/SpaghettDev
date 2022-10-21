@@ -225,7 +225,7 @@
                                 <div class="infos">
                                     <div class="name">Tryouts</div>
                                     <div class="artist">Zombie Nation</div>
-                                    <div class="played-at">Played at 16:23:32 on 21 Oct 2022</div>
+                                    <div class="played-at">Played at 16:54:51 on 21 Oct 2022</div>
                                 </div>
                             </div>
                         </div>
@@ -310,7 +310,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Oct 2022, 16:25:57  with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 21 Oct 2022, 18:21:22  with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
