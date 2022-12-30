@@ -225,7 +225,7 @@
                                 <div class="infos">
                                     <div class="name">Plush - Jacques Lu Cont Remix</div>
                                     <div class="artist">Tiga</div>
-                                    <div class="played-at">Played at 14:09:28 on 30 Dec 2022</div>
+                                    <div class="played-at">Played at 16:10:46 on 30 Dec 2022</div>
                                 </div>
                             </div>
                         </div>
@@ -310,7 +310,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Dec 2022, 14:09:37  with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 30 Dec 2022, 16:13:22  with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
