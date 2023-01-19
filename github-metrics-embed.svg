@@ -225,7 +225,7 @@
                                 <div class="infos">
                                     <div class="name">All Caps</div>
                                     <div class="artist">Madvillain</div>
-                                    <div class="played-at">Played at 08:46:21 on 19 Jan 2023</div>
+                                    <div class="played-at">Played at 08:47:47 on 19 Jan 2023</div>
                                 </div>
                             </div>
                         </div>
@@ -310,7 +310,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Jan 2023, 10:12:10  with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 19 Jan 2023, 12:21:01  with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
