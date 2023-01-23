@@ -225,7 +225,7 @@
                                 <div class="infos">
                                     <div class="name">All Of The Lights</div>
                                     <div class="artist">Kanye West</div>
-                                    <div class="played-at">Played at 23:27:17 on 22 Jan 2023</div>
+                                    <div class="played-at">Played at 12:15:22 on 23 Jan 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -326,7 +326,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Jan 2023, 10:12:08  with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 23 Jan 2023, 12:19:51  with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
