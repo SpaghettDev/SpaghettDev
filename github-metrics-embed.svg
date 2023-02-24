@@ -225,7 +225,7 @@
                                 <div class="infos">
                                     <div class="name">Understanding the Possibility</div>
                                     <div class="artist">G Jones</div>
-                                    <div class="played-at">Played at 22:06:55 on 23 Feb 2023</div>
+                                    <div class="played-at">Played at 22:11:23 on 23 Feb 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -326,7 +326,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Feb 2023, 22:10:57  with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 24 Feb 2023, 00:56:55  with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
