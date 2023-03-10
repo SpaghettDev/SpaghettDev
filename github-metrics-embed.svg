@@ -233,7 +233,7 @@
                                 <div class="infos">
                                     <div class="name">1539 N. Calvert</div>
                                     <div class="artist">JPEGMAFIA</div>
-                                    <div class="played-at">Played at 14:35:02 on 10 Mar 2023</div>
+                                    <div class="played-at">Played at 14:32:31 on 10 Mar 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -321,7 +321,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Mar 2023, 16:15:12  with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 10 Mar 2023, 18:13:04  with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
