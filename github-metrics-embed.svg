@@ -225,7 +225,7 @@
                                 <div class="infos">
                                     <div class="name">Go2DaMoon (feat. Kanye West)</div>
                                     <div class="artist">Playboi Carti</div>
-                                    <div class="played-at">Played at 15:51:49 on 17 Mar 2023</div>
+                                    <div class="played-at">Played at 21:50:46 on 17 Mar 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -233,7 +233,7 @@
                                 <div class="infos">
                                     <div class="name">Pikachu</div>
                                     <div class="artist">Yung Lean</div>
-                                    <div class="played-at">Played at 15:49:54 on 17 Mar 2023</div>
+                                    <div class="played-at">Played at 21:48:50 on 17 Mar 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -241,7 +241,7 @@
                                 <div class="infos">
                                     <div class="name">untitled 02 | 06.23.2014.</div>
                                     <div class="artist">Kendrick Lamar</div>
-                                    <div class="played-at">Played at 15:47:52 on 17 Mar 2023</div>
+                                    <div class="played-at">Played at 21:46:48 on 17 Mar 2023</div>
                                 </div>
                             </div>
                         </div>
@@ -326,7 +326,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Mar 2023, 20:11:50  with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 17 Mar 2023, 22:10:27  with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
