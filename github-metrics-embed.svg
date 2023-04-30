@@ -225,7 +225,7 @@
                                 <div class="infos">
                                     <div class="name">Casablanca (feat. Morad)</div>
                                     <div class="artist">Baby Gang</div>
-                                    <div class="played-at">Played at 14:44:25 on 30 Apr 2023</div>
+                                    <div class="played-at">Played at 16:58:55 on 30 Apr 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -233,7 +233,7 @@
                                 <div class="infos">
                                     <div class="name">Marocchino</div>
                                     <div class="artist">Baby Gang</div>
-                                    <div class="played-at">Played at 14:39:48 on 30 Apr 2023</div>
+                                    <div class="played-at">Played at 16:54:21 on 30 Apr 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -326,7 +326,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Apr 2023, 16:11:23  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 30 Apr 2023, 18:11:19  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
