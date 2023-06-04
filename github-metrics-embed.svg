@@ -225,7 +225,7 @@
                                 <div class="infos">
                                     <div class="name">Feedback</div>
                                     <div class="artist">Kanye West</div>
-                                    <div class="played-at">Played at 04:11:15 on 4 Jun 2023</div>
+                                    <div class="played-at">Played at 06:09:50 on 4 Jun 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -233,7 +233,7 @@
                                 <div class="infos">
                                     <div class="name">The Blacker The Berry</div>
                                     <div class="artist">Kendrick Lamar</div>
-                                    <div class="played-at">Played at 04:08:50 on 4 Jun 2023</div>
+                                    <div class="played-at">Played at 06:07:24 on 4 Jun 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -241,7 +241,7 @@
                                 <div class="infos">
                                     <div class="name">untitled 02 | 06.23.2014.</div>
                                     <div class="artist">Kendrick Lamar</div>
-                                    <div class="played-at">Played at 04:03:23 on 4 Jun 2023</div>
+                                    <div class="played-at">Played at 06:01:57 on 4 Jun 2023</div>
                                 </div>
                             </div>
                         </div>
@@ -326,7 +326,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Jun 2023, 04:11:30  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 4 Jun 2023, 06:11:47  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
