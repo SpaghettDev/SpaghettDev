@@ -225,7 +225,7 @@
                                 <div class="infos">
                                     <div class="name">Alright</div>
                                     <div class="artist">Kendrick Lamar</div>
-                                    <div class="played-at">Played at 18:09:10 on 20 Jun 2023</div>
+                                    <div class="played-at">Played at 20:08:28 on 20 Jun 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -233,7 +233,7 @@
                                 <div class="infos">
                                     <div class="name">Nosetalgia</div>
                                     <div class="artist">Pusha T</div>
-                                    <div class="played-at">Played at 18:05:36 on 20 Jun 2023</div>
+                                    <div class="played-at">Played at 20:04:53 on 20 Jun 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -241,7 +241,7 @@
                                 <div class="infos">
                                     <div class="name">HAZARD DUTY PAY!</div>
                                     <div class="artist">JPEGMAFIA</div>
-                                    <div class="played-at">Played at 18:02:05 on 20 Jun 2023</div>
+                                    <div class="played-at">Played at 20:01:22 on 20 Jun 2023</div>
                                 </div>
                             </div>
                         </div>
@@ -326,7 +326,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Jun 2023, 18:11:25  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 20 Jun 2023, 20:10:22  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
