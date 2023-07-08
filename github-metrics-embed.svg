@@ -225,7 +225,7 @@
                                 <div class="infos">
                                     <div class="name">BALD!</div>
                                     <div class="artist">JPEGMAFIA</div>
-                                    <div class="played-at">Played at 21:23:22 on 7 Jul 2023</div>
+                                    <div class="played-at">Played at 13:45:51 on 8 Jul 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -233,7 +233,7 @@
                                 <div class="infos">
                                     <div class="name">HAZARD DUTY PAY!</div>
                                     <div class="artist">JPEGMAFIA</div>
-                                    <div class="played-at">Played at 21:20:53 on 7 Jul 2023</div>
+                                    <div class="played-at">Played at 13:43:22 on 8 Jul 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -241,7 +241,7 @@
                                 <div class="infos">
                                     <div class="name">Poland</div>
                                     <div class="artist">Lil Yachty</div>
-                                    <div class="played-at">Played at 21:18:21 on 7 Jul 2023</div>
+                                    <div class="played-at">Played at 13:39:26 on 8 Jul 2023</div>
                                 </div>
                             </div>
                         </div>
@@ -326,7 +326,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Jul 2023, 12:20:05  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 8 Jul 2023, 14:09:21  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
