@@ -225,7 +225,7 @@
                                 <div class="infos">
                                     <div class="name">Hacker</div>
                                     <div class="artist">Death Grips</div>
-                                    <div class="played-at">Played at 00:07:32 on 25 Jul 2023</div>
+                                    <div class="played-at">Played at 00:09:30 on 25 Jul 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -286,7 +286,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Jul 2023, 08:13:24  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 25 Jul 2023, 10:11:24  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
