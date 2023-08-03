@@ -225,7 +225,7 @@
                                 <div class="infos">
                                     <div class="name">THANK GOD</div>
                                     <div class="artist">Travis Scott</div>
-                                    <div class="played-at">Played at 00:40:44 on 3 Aug 2023</div>
+                                    <div class="played-at">Played at 10:47:51 on 3 Aug 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -233,7 +233,7 @@
                                 <div class="infos">
                                     <div class="name">TELEKINESIS (feat. SZA &amp; Future)</div>
                                     <div class="artist">Travis Scott</div>
-                                    <div class="played-at">Played at 00:29:46 on 3 Aug 2023</div>
+                                    <div class="played-at">Played at 10:44:46 on 3 Aug 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -241,7 +241,7 @@
                                 <div class="infos">
                                     <div class="name">SIRENS</div>
                                     <div class="artist">Travis Scott</div>
-                                    <div class="played-at">Played at 00:23:52 on 3 Aug 2023</div>
+                                    <div class="played-at">Played at 10:38:53 on 3 Aug 2023</div>
                                 </div>
                             </div>
                         </div>
@@ -286,7 +286,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Aug 2023, 10:10:24  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 3 Aug 2023, 12:19:12  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
