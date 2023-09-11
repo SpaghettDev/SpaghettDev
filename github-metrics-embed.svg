@@ -225,7 +225,7 @@
                                 <div class="infos">
                                     <div class="name">chronic</div>
                                     <div class="artist">twikipedia</div>
-                                    <div class="played-at">Played at 20:07:39 on 11 Sept 2023</div>
+                                    <div class="played-at">Played at 20:52:36 on 11 Sept 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -316,7 +316,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Sept 2023, 20:09:30  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 11 Sept 2023, 22:09:12  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
