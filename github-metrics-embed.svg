@@ -225,7 +225,7 @@
                                 <div class="infos">
                                     <div class="name">Hood Politics</div>
                                     <div class="artist">Kendrick Lamar</div>
-                                    <div class="played-at">Played at 02:11:58 on 21 Oct 2023</div>
+                                    <div class="played-at">Played at 03:05:41 on 21 Oct 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -286,7 +286,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Oct 2023, 02:14:57  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Oct 2023, 04:11:59  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
