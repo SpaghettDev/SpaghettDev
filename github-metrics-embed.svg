@@ -225,7 +225,7 @@
                                 <div class="infos">
                                     <div class="name">Real Nega</div>
                                     <div class="artist">JPEGMAFIA</div>
-                                    <div class="played-at">Played at 04:09:16 on 22 Oct 2023</div>
+                                    <div class="played-at">Played at 05:12:22 on 22 Oct 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -286,7 +286,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Oct 2023, 04:11:36  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Oct 2023, 06:12:39  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
