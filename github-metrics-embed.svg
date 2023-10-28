@@ -225,7 +225,7 @@
                                 <div class="infos">
                                     <div class="name">Punk Weight</div>
                                     <div class="artist">Death Grips</div>
-                                    <div class="played-at">Played at 20:41:24 on 27 Oct 2023</div>
+                                    <div class="played-at">Played at 10:59:31 on 28 Oct 2023</div>
                                 </div>
                             </div>
                         </div>
@@ -310,7 +310,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Oct 2023, 10:09:36  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Oct 2023, 12:16:47  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
