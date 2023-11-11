@@ -1,3 +1,3 @@
 [![Metrics](/github-metrics-embed.svg)][github]
 
-[github]: https://github.com/TheGamer456YT/TheGamer456YT
+[github]: https://github.com/SpaghettDev/SpaghettDev
