@@ -225,7 +225,7 @@
                                 <div class="infos">
                                     <div class="name">CARNIVAL</div>
                                     <div class="artist">Kanye West</div>
-                                    <div class="played-at">Played at 03:59:39 on 13 Feb 2024</div>
+                                    <div class="played-at">Played at 07:46:03 on 13 Feb 2024</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -326,7 +326,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Feb 2024, 10:10:34  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Feb 2024, 12:17:09  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
