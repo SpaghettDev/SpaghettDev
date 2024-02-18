@@ -225,7 +225,7 @@
                                 <div class="infos">
                                     <div class="name">CARNIVAL</div>
                                     <div class="artist">¥$</div>
-                                    <div class="played-at">Played at 00:47:37 on 18 Feb 2024</div>
+                                    <div class="played-at">Played at 01:38:54 on 18 Feb 2024</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -233,7 +233,7 @@
                                 <div class="infos">
                                     <div class="name">VULTURES</div>
                                     <div class="artist">¥$</div>
-                                    <div class="played-at">Played at 00:43:13 on 18 Feb 2024</div>
+                                    <div class="played-at">Played at 01:34:30 on 18 Feb 2024</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -241,7 +241,7 @@
                                 <div class="infos">
                                     <div class="name">PAPERWORK</div>
                                     <div class="artist">¥$</div>
-                                    <div class="played-at">Played at 00:38:41 on 18 Feb 2024</div>
+                                    <div class="played-at">Played at 01:29:58 on 18 Feb 2024</div>
                                 </div>
                             </div>
                         </div>
@@ -326,7 +326,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Feb 2024, 00:47:50  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Feb 2024, 02:18:09  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
