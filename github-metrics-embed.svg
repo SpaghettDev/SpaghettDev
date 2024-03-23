@@ -225,7 +225,7 @@
                                 <div class="infos">
                                     <div class="name">Genesis</div>
                                     <div class="artist">$uicideboy$</div>
-                                    <div class="played-at">Played at 07:54:47 on 23 Mar 2024</div>
+                                    <div class="played-at">Played at 08:06:35 on 23 Mar 2024</div>
                                 </div>
                             </div>
                         </div>
@@ -310,7 +310,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Mar 2024, 08:11:39  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Mar 2024, 10:10:20  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
