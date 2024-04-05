@@ -225,7 +225,7 @@
                                 <div class="infos">
                                     <div class="name">No Love</div>
                                     <div class="artist">Death Grips</div>
-                                    <div class="played-at">Played at 02:15:57 on 5 Apr 2024</div>
+                                    <div class="played-at">Played at 03:08:09 on 5 Apr 2024</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -233,7 +233,7 @@
                                 <div class="infos">
                                     <div class="name">Get Got</div>
                                     <div class="artist">Death Grips</div>
-                                    <div class="played-at">Played at 02:10:52 on 5 Apr 2024</div>
+                                    <div class="played-at">Played at 03:03:05 on 5 Apr 2024</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -241,7 +241,7 @@
                                 <div class="infos">
                                     <div class="name">I've Seen Footage</div>
                                     <div class="artist">Death Grips</div>
-                                    <div class="played-at">Played at 02:08:00 on 5 Apr 2024</div>
+                                    <div class="played-at">Played at 03:00:13 on 5 Apr 2024</div>
                                 </div>
                             </div>
                         </div>
@@ -326,7 +326,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Apr 2024, 02:17:57  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Apr 2024, 04:14:57  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
