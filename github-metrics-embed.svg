@@ -225,7 +225,7 @@
                                 <div class="infos">
                                     <div class="name">Not Like Us</div>
                                     <div class="artist">Kendrick Lamar</div>
-                                    <div class="played-at">Played at 02:23:46 on 9 May 2024</div>
+                                    <div class="played-at">Played at 03:16:20 on 9 May 2024</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -233,7 +233,7 @@
                                 <div class="infos">
                                     <div class="name">meet the grahams</div>
                                     <div class="artist">Kendrick Lamar</div>
-                                    <div class="played-at">Played at 02:19:11 on 9 May 2024</div>
+                                    <div class="played-at">Played at 03:11:46 on 9 May 2024</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -241,7 +241,7 @@
                                 <div class="infos">
                                     <div class="name">euphoria</div>
                                     <div class="artist">Kendrick Lamar</div>
-                                    <div class="played-at">Played at 02:12:39 on 9 May 2024</div>
+                                    <div class="played-at">Played at 03:05:13 on 9 May 2024</div>
                                 </div>
                             </div>
                         </div>
@@ -326,7 +326,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 May 2024, 02:25:57  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 May 2024, 04:15:38  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
