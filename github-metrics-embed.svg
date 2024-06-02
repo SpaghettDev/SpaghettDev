@@ -225,7 +225,7 @@
                                 <div class="infos">
                                     <div class="name">Windowlicker</div>
                                     <div class="artist">Aphex Twin</div>
-                                    <div class="played-at">Played at 03:50:20 on 2 Jun 2024</div>
+                                    <div class="played-at">Played at 12:14:09 on 2 Jun 2024</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -326,7 +326,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Jun 2024, 10:10:43  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Jun 2024, 12:18:32  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
