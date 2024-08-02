@@ -225,7 +225,7 @@
                                 <div class="infos">
                                     <div class="name">don't rely on other men</div>
                                     <div class="artist">JPEGMAFIA</div>
-                                    <div class="played-at">Played at 04:11:42 on 2 Aug 2024</div>
+                                    <div class="played-at">Played at 04:53:04 on 2 Aug 2024</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -233,7 +233,7 @@
                                 <div class="infos">
                                     <div class="name">New Black History (feat. Vince Staples)</div>
                                     <div class="artist">JPEGMAFIA</div>
-                                    <div class="played-at">Played at 04:08:50 on 2 Aug 2024</div>
+                                    <div class="played-at">Played at 04:50:12 on 2 Aug 2024</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -241,7 +241,7 @@
                                 <div class="infos">
                                     <div class="name">it's dark and hell is hot</div>
                                     <div class="artist">JPEGMAFIA</div>
-                                    <div class="played-at">Played at 04:06:33 on 2 Aug 2024</div>
+                                    <div class="played-at">Played at 04:47:56 on 2 Aug 2024</div>
                                 </div>
                             </div>
                         </div>
@@ -297,18 +297,18 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C++</span>
-                                <div class="bar" style="width: 61.952%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">77%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Python</span>
-                                <div class="bar" style="width: 8.216%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">10%</span>
+                                <div class="bar" style="width: 65.176%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">81%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Zeek</span>
-                                <div class="bar" style="width: 7.4959999999999996%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
+                                <div class="bar" style="width: 8.543999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">11%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Python</span>
+                                <div class="bar" style="width: 3.9520000000000004%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JSON</span>
@@ -326,7 +326,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Aug 2024, 04:14:39  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Aug 2024, 06:17:44  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
