@@ -18,15 +18,25 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Canada/Toronto
 
-          # Spotify
+          # Last.fm
           plugin_music: yes
-          plugin_music_limit: 3
+          plugin_music_provider: lastfm
+          plugin_music_token: ${{ secrets.LASTFM_API_KEY }}
+          plugin_music_user: SpaghettDev
           plugin_music_mode: recent
-          plugin_music_time_range: short
+          plugin_music_limit: 4
           plugin_music_played_at: yes
-          plugin_music_provider: spotify
-          plugin_music_user: .user.login
-          plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
+          plugin_music_time_range: short
+
+          # Spotify
+          # plugin_music: yes
+          # plugin_music_limit: 3
+          # plugin_music_mode: recent
+          # plugin_music_time_range: short
+          # plugin_music_played_at: yes
+          # plugin_music_provider: spotify
+          # plugin_music_user: .user.login
+          # plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
 
           # WakaTime
           plugin_wakatime: yes
